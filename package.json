@@ -1,0 +1,26 @@
+{
+  "name": "express-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexMJung/node-express-assignments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexMJung/node-express-assignments/issues"
+  },
+  "homepage": "https://github.com/AlexMJung/node-express-assignments#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+  "scripts":{
+    "test": "echo \"Error: no t4st specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+}
